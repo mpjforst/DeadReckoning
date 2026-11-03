@@ -2,7 +2,7 @@
 
 A drone simulator for navigating without GPS. The drone has a compass, an anemometer and a clock, and has to reach a target through a wind field that changes from place to place. Classical wind-triangle corrections get it most of the way. A small recurrent network then reads the flight's sensor log and corrects the remaining miss.
 
-![Three navigation modes on the same flight](docs/flight.png)
+![Three navigation modes on the same flight](flight.png)
 
 ## The problem
 
